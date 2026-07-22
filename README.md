@@ -5,7 +5,7 @@ C++ OpenGL starter implementation
 
 This version computes only one octant on CPU, then uses an OpenGL vertex shader to generate the 8 symmetric positions.
 maingl.ccp change it to main.cpp then run it
-as OpenGl project it uses OpenGL for parallesim.
+as OpenGL project it uses OpenGL for parallesim.
 
 # GPU Eight-Octant Symmetry Circle
 
